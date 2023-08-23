@@ -18,10 +18,6 @@ Olá, me chamo **Israel Isaias Sandrino**, tenho 24 anos e eu sou um entusiasta 
     <img width="20px">
     <img src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="30px">
     <img width="20px">
-    <img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" height="30px">
-    <img width="20px">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30px">
-    <img width="20px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30px">
     <img width="20px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" height="30px">
