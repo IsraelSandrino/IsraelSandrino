@@ -1,38 +1,44 @@
-![](https://raelsandrini.com/wp-content/uploads/2023/07/nav-logo.png)
+### Olá, seja bem-vindo(a) 👋
 
-## Quem sou?
-Olá, me chamo **Israel Isaias Sandrino**, tenho 24 anos e eu sou um entusiasta da tecnologia, apaixonado por desenvolver soluções inteligentes e elegantes. Minha jornada começou com estudos em Física, o que me proporcionou habilidades analíticas e uma abordagem científica apurada. Hoje, como Analista de Sistemas, aplico meus conhecimentos e experiência para criarsoluções inovadoras e eficientes.
+Meu nome é Israel Sandrino e cursei [Física](https://www3.unicentro.br/cursos/fisica/) por três anos até descobrir minha paixão: Desenvolvimento de Software.
 
-## Habilidades
+Atualmente sou graduando em [Análise e Desenvolvimento de Sistemas](https://www.unipar.br/graduacao/analise-desenvolvimento-sistemas/) e trabalho com tecnologia desde 2022. 
 
-<div>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" height="30px">
-    <img width="20px">
-    <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" height="30px">
-    <img width="20px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="30px">
-    <img width="20px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="30px">
-    <img width="20px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="30px">
-    <img width="20px">
-    <img src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="30px">
-    <img width="20px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30px">
-    <img width="20px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" height="30px">
-</div>
+Adoro participar de eventos e desafios, tendo realizado por duas vezes o [BootCamp FullStack do Santander](https://app.santanderopenacademy.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023).
 
-## Mídias Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isandrino/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/israelsandrino/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:isandrino99@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv)](http://lattes.cnpq.br/5372539081598131)
+[![Linkedin: israel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isandrino/)](https://www.linkedin.com/in/isandrino/)
+[![Gmail: isandrino](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:isandrino99@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-326C99?style=flat-square&logo=read.cv)](http://lattes.cnpq.br/5372539081598131)
+____
 
-## GitHub Status
+## ⚡ Tecnologias
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsraelSandrino&theme=material-palenight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+Estas são algumas das tecnologias e ferramentas com quais trabalho:
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IsraelSandrino&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=c893eb&title_color=30A3DC&text_color=FFF)](https://github.com/IsraelSandrino/dio-lab-open-source)
+Backend: 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+Frontend:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+Banco de Dados:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+Ferramentas:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+IDEs:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
