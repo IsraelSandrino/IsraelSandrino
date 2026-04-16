@@ -1,67 +1,50 @@
-### Olá, seja bem-vindo(a) 👋
+# 👋 Hi, I'm Israel Sandrino
 
-Sou Israel Sandrino — Analista de Dados (BI) e Automação de Processos.
+**Data & BI Analyst | Process Automation**
 
-Atuo transformando dados operacionais em decisões estratégicas e automatizando processos ponta a ponta com foco em resultado mensurável.
+I bridge the gap between Big Data and Business Intelligence through high-impact automation.
 
-📊 +4 anos trabalhando com dados, dashboards e KPIs  
-⚙️ Automação de processos com impacto direto em receita e eficiência  
-📈 Foco em performance operacional, conversão e redução de custos  
+🚀 +14% conversion  
+⚡ -91% response time  
+🧠 -36h/month manual work  
+💰 R$ 5.8M/year impact  
 
----
-
-## 🚀 Principais resultados
-
-- Redução de 91% no tempo de primeiro atendimento (22min → 2min)
-- +14% de aumento na conversão de leads com automações
-- Economia de ~36h/mês em processos manuais
-- Projetos de BI que geraram impacto financeiro na ordem de milhões (ex: R$ 5,8M/ano em otimização de frota)
+> Data only creates value when it turns into action, savings, or decision speed.
 
 ---
 
-## 🧠 O que eu faço
+## ⚡ Stack
 
-- Construção de dashboards e KPIs (Power BI, Grafana)
-- Análise de dados operacionais e identificação de gargalos
-- Automação de processos com n8n, APIs e integrações
-- Criação de pipelines e ETL para dados
-- Integração entre CRM, ERP e bancos de dados
+### BI & Datas
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+### Backend & Automation
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=express&logoColor=white)
 
-## ⚡ Tecnologias
+### Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Dados & BI
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+--- 
 
-### Automação & Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=flat-square)
-
-### Dados & Integração
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/-ETL-4B8BBE?style=flat-square)
-![Webhooks](https://img.shields.io/badge/-Webhooks-FF6C37?style=flat-square)
-
-### Infra & Ferramentas
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📫 Contato
-
+## 📫 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isandrino/)](https://www.linkedin.com/in/isandrino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:isandrino99@gmail.com)
 
----
+<p><b>Open to opportunities in Data (BI) & Process Automation</b></p>
 
-## 💡 Filosofia
+--- 
 
-> Não acredito em automação sem análise, nem em melhoria sem indicador.  
-> Processos só fazem sentido quando podem ser medidos, acompanhados e evoluídos com base em dados.
+## 💡 Philosophy
+
+> I don’t believe in automation without analysis, nor in improvement without metrics.  
+> Processes only make sense when they can be measured, monitored, and improved based on data.
